@@ -312,5 +312,86 @@ function myMap(){
         infowindow10.open(wholemap,wholemarker10);
     });
     
+    congestionmarker1.addListener('click', function() {
+        infowindow1.open(wholemap,congestionmarker1);
+    });
+
+    congestionmarker2.addListener('click', function() {
+        infowindow2.open(wholemap,congestionmarker2);
+    });
+
+    congestionmarker3.addListener('click', function() {
+        infowindow3.open(wholemap,congestionmarker3);
+    });
+
+    congestionmarker4.addListener('click', function() {
+        infowindow4.open(wholemap,congestionmarker4);
+    });
+
+    congestionmarker5.addListener('click', function() {
+        infowindow5.open(wholemap,congestionmarker6);
+    });
+
+    congestionmarker6.addListener('click', function() {
+        infowindow6.open(wholemap,congestionmarker6);
+    });
+
+    congestionmarker7.addListener('click', function() {
+        infowindow7.open(wholemap,congestionmarker7);
+    });
+
+    congestionmarker8.addListener('click', function() {
+        infowindow8.open(wholemap,congestionmarker8);
+    });
+
+    congestionmarker9.addListener('click', function() {
+        infowindow9.open(wholemap,congestionmarker9);
+    });
+
+    congestionmarker10.addListener('click', function() {
+        infowindow10.open(wholemap,congestionmarker10);
+    });
+
+    
+    scalemarker1.addListener('click', function() {
+        infowindow1.open(wholemap,scalemarker1);
+    });
+
+    scalemarker2.addListener('click', function() {
+        infowindow2.open(wholemap,scalemarker2);
+    });
+
+    scalemarker3.addListener('click', function() {
+        infowindow3.open(wholemap,scalemarker3);
+    });
+
+    scalemarker4.addListener('click', function() {
+        infowindow4.open(wholemap,scalemarker4);
+    });
+
+    scalemarker5.addListener('click', function() {
+        infowindow5.open(wholemap,scalemarker5);
+    });
+
+    scalemarker6.addListener('click', function() {
+        infowindow6.open(wholemap,scalemarker6);
+    });
+
+    scalemarker7.addListener('click', function() {
+        infowindow7.open(wholemap,scalemarker7);
+    });
+
+    scalemarker8.addListener('click', function() {
+        infowindow8.open(wholemap,scalemarker8);
+    });
+    
+    scalemarker9.addListener('click', function() {
+        infowindow9.open(wholemap,scalemarker9);
+    });
+
+    scalemarker10.addListener('click', function() {
+        infowindow10.open(wholemap,scalemarker10);
+    });
+
 }
 
